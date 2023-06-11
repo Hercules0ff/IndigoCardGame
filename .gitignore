@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Indigo Card Game/task/build/
+/Indigo Card Game/task/out/
+/Indigo Card Game/task/out/production/classes/
+/Topics/Data class/toString() modification/out/
+/Topics/Data class/toString() modification/out/production/classes/
+/Topics/Property accessors/Weather comparison/out/
+/Topics/Property accessors/Weather comparison/out/production/classes/
